@@ -1,7 +1,7 @@
 Run android 4.22 on linux
 
 1. Environment
-2. 
+
   ubuntu 14.04
 
   jdk1.0.0.45 locate on /opt/jdk1.0.0_45 
